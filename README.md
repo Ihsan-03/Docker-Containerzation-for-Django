@@ -63,6 +63,7 @@ http://localhost:8000/demo/
 
 ## Project Structure
 
+```text
 .
 ├── Dockerfile
 ├── README.md 
@@ -71,7 +72,7 @@ http://localhost:8000/demo/
     ├── manage.py
     ├── demo
     └── devops
-
+```
 
 ## Components
 - devops/demo → Django web application containing views, URLs, templates, and business logic.
