@@ -76,7 +76,6 @@ http://localhost:8000/demo/
 
 ## Components
 - devops/demo → Django web application containing views, URLs, templates, and business logic.
-- devops/devops → Django project configuration containing settings, project-level URLs, WSGI, and ASGI confi>
+- devops/devops → Django project configuration containing settings, project-level URLs, WSGI, and ASGI configuration.
 - manage.py → Django management utility used to run and manage the application.
 
-so 
